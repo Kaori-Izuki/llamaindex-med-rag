@@ -1,0 +1,354 @@
+[
+  {
+    "question": "根据这些文献，PD-1/PD-L1 与 CTLA-4 分别在 T 细胞激活的哪个阶段发挥抑制作用？它们解除抑制后主要带来哪些免疫学变化？",
+    "answer": "根据这些文章，PD-L1 在 T 组织细胞活化（T-cell activation）的早期阶段起着抑制作用，而 CTLA -4 则在 T 淋巴细胞活化的晚期阶段起作用，并通过其负调节作用来解除这种抑制。",
+    "source_nodes_count": 3,
+    "source_nodes": [
+      {
+        "source_file": "Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf",
+        "metadata": {
+          "page_label": "13",
+          "file_name": "Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf",
+          "source_file": "data/raw/Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf",
+          "file_type": "pdf",
+          "title": "Distinct Cellular Mechanisms Underlie Anti-CTLA-4 and Anti-PD-1 Checkpoint Blockade",
+          "authors": "Spencer C Wei; Jacob H Levine; Alexandria P Cogdill; Yang Zhao; Nana-Ama A S Anang; Miles C Andrews; Padmanee Sharma; Jing Wang; Jennifer A Wargo; Dana Pe'er; James P Allison",
+          "year": "2017",
+          "journal": "Cell",
+          "doi": "10.1016/j.cell.2017.07.024",
+          "pmid": "28803728",
+          "pmcid": "PMC5591072",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/28803728/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.857513,
+        "text_snippet": "Genomic and Transcriptomic Features of Response to Anti-PD-1 \nTherapy in Metastatic Melanoma. Cell. 2016; 165:35–44. [PubMed: 26997480] \nIm SJ, Hashimoto M, Gerner MY , Lee J, Kissick HT, Burger MC, Shan Q, Hale JS, Lee J, Nasti TH, et \nal. Defining CD8+ T cells that provide the proliferative burst after PD-1 therapy. Nature. 2016; \n537:417–421. [PubMed: 27501248] \nKamphorst AO, Pillai RN, Yang S, Nasti TH, Akondy RS, Wieland A, Sica GL, Yu K, Koenig L, Patel \nNT, et al. Proliferation of PD-1+ CD8 T cells in peripheral blood after PD-1-targeted therapy in \nlung cancer patients. Proc Natl Acad Sci USA. 2017; 114:4993–4998. [PubMed: 28446615] \nKoboldt DC, Zhang Q, Larson DE, Shen D, McLellan MD, Lin L, Miller CA, Mardis ER, Ding L, \nWilson RK. VarScan 2: somatic mutation and copy number alteration discovery in cancer by \nexome sequencing. Genome Res.",
+        "text_length": 860,
+        "page": "13"
+      },
+      {
+        "source_file": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+        "metadata": {
+          "page_label": "24",
+          "file_name": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "source_file": "data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "file_type": "pdf",
+          "title": "Dual blockade immunotherapy targeting PD-1/PD-L1 and CTLA-4 in lung cancer",
+          "authors": "Weishi Cheng; Kai Kang; Ailin Zhao; Yijun Wu",
+          "year": "2024",
+          "journal": "Journal of Hematology & Oncology",
+          "doi": "10.1186/s13045-024-01581-2",
+          "pmid": "39068460",
+          "pmcid": "PMC11283714",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/39068460/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.851812,
+        "text_snippet": "171. Keir ME, Liang SC, Guleria I, Latchman YE, Qipo A, Albacker LA, et al. \nTissue expression of PD-L1 mediates peripheral T cell tolerance. J Exp \nMed. 2006;203:883–95.\n 172. Tivol EA, Borriello F, Schweitzer AN, Lynch WP , Bluestone JA, Sharpe AH. \nLoss of CTLA-4 leads to massive lymphoproliferation and fatal multiorgan tissue destruction, revealing a critical negative regulatory role of \nCTLA-4. Immunity. 1995;3:541–7.\n 173. Freeman GJ, Long AJ, Iwai Y, Bourque K, Chernova T, Nishimura H, et al. \nEngagement of the PD-1 immunoinhibitory receptor by a novel B7 \nfamily member leads to negative regulation of lymphocyte activation. J \nExp Med. 2000;192:1027–34.\nPublisher’s Note\nSpringer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.",
+        "text_length": 804,
+        "page": "24"
+      },
+      {
+        "source_file": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+        "metadata": {
+          "page_label": "21",
+          "file_name": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "source_file": "data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "file_type": "pdf",
+          "title": "Dual blockade immunotherapy targeting PD-1/PD-L1 and CTLA-4 in lung cancer",
+          "authors": "Weishi Cheng; Kai Kang; Ailin Zhao; Yijun Wu",
+          "year": "2024",
+          "journal": "Journal of Hematology & Oncology",
+          "doi": "10.1186/s13045-024-01581-2",
+          "pmid": "39068460",
+          "pmcid": "PMC11283714",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/39068460/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.849928,
+        "text_snippet": "2006;116:1935–45.\n 42. Simpson TR, Li F, Montalvo-Ortiz W, Sepulveda MA, Bergerhoff K, Arce \nF, et al. Fc-dependent depletion of tumor-infiltrating regulatory T cells \nco-defines the efficacy of anti-CTLA-4 therapy against melanoma. J Exp \nMed. 2013;210:1695–710.\n 43. Wei SC, Levine JH, Cogdill AP , Zhao Y, Anang N-AAS, Andrews MC, \net al. Distinct cellular mechanisms underlie anti-CTLA-4 and anti-PD-1 \ncheckpoint blockade. Cell. 2017;170.\n 44. Kudo M. Durvalumab plus tremelimumab: a novel combination immunotherapy for unresectable hepatocellular carcinoma. Liver Cancer. \n2022;11:87–93.\n 45. Wolchok JD, Saenger Y. The mechanism of anti-CTLA-4 activity and \nthe negative regulation of T-cell activation. Oncologist. 2008;13(Suppl \n4):2–9.\n 46. Robert L, Tsoi J, Wang X, Emerson R, Homet B, Chodon T, et al. CTLA4 \nblockade broadens the peripheral T-cell receptor repertoire. Clin Cancer \nRes. 2014;20:2424–32.\n 47.",
+        "text_length": 921,
+        "page": "21"
+      }
+    ],
+    "runtime_seconds": 11.631,
+    "parameters": {
+      "similarity_top_k": 3,
+      "temperature": 0.1,
+      "max_new_tokens": 256,
+      "embedding_model": "BAAI/bge-small-en-v1.5",
+      "llm_model": "Qwen/Qwen2.5-0.5B-Instruct",
+      "chunk_size": 512,
+      "chunk_overlap": 50
+    },
+    "id": "fact_mechanism",
+    "type": "事实型"
+  },
+  {
+    "question": "与单药 PD-1/PD-L1 抑制相比，PD-1/PD-L1 联合 CTLA-4 阻断在作用机制、潜在疗效和免疫相关不良事件方面有哪些差异？",
+    "answer": "作用机制：双抗联合抑制了PD-PTCL1/PDL1的相互作用，而单抗仅针对PD-CTK4/CTLA4。\n\n潜在疗效：双抗体联合治疗显著提高了肿瘤细胞的杀伤能力，同时减少了对正常组织的损伤，降低了免疫相关副作用的发生率。\n\n免疫相关有害事件：双靶向治疗组的总体反应率（ORR）为42%，而单靶向组仅为22%。然而，双靶标治疗组发生严重的免疫相关毒性事件的比例较低，如发热、疲劳和血小板减少等，这表明双靶标的组合可能具有更好的安全性和耐受性。",
+    "source_nodes_count": 3,
+    "source_nodes": [
+      {
+        "source_file": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+        "metadata": {
+          "page_label": "21",
+          "file_name": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "source_file": "data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "file_type": "pdf",
+          "title": "Dual blockade immunotherapy targeting PD-1/PD-L1 and CTLA-4 in lung cancer",
+          "authors": "Weishi Cheng; Kai Kang; Ailin Zhao; Yijun Wu",
+          "year": "2024",
+          "journal": "Journal of Hematology & Oncology",
+          "doi": "10.1186/s13045-024-01581-2",
+          "pmid": "39068460",
+          "pmcid": "PMC11283714",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/39068460/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.834138,
+        "text_snippet": "2006;116:1935–45.\n 42. Simpson TR, Li F, Montalvo-Ortiz W, Sepulveda MA, Bergerhoff K, Arce \nF, et al. Fc-dependent depletion of tumor-infiltrating regulatory T cells \nco-defines the efficacy of anti-CTLA-4 therapy against melanoma. J Exp \nMed. 2013;210:1695–710.\n 43. Wei SC, Levine JH, Cogdill AP , Zhao Y, Anang N-AAS, Andrews MC, \net al. Distinct cellular mechanisms underlie anti-CTLA-4 and anti-PD-1 \ncheckpoint blockade. Cell. 2017;170.\n 44. Kudo M. Durvalumab plus tremelimumab: a novel combination immunotherapy for unresectable hepatocellular carcinoma. Liver Cancer. \n2022;11:87–93.\n 45. Wolchok JD, Saenger Y. The mechanism of anti-CTLA-4 activity and \nthe negative regulation of T-cell activation. Oncologist. 2008;13(Suppl \n4):2–9.\n 46. Robert L, Tsoi J, Wang X, Emerson R, Homet B, Chodon T, et al. CTLA4 \nblockade broadens the peripheral T-cell receptor repertoire. Clin Cancer \nRes. 2014;20:2424–32.\n 47.",
+        "text_length": 921,
+        "page": "21"
+      },
+      {
+        "source_file": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+        "metadata": {
+          "page_label": "1",
+          "file_name": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "source_file": "data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "file_type": "pdf",
+          "title": "Dual blockade immunotherapy targeting PD-1/PD-L1 and CTLA-4 in lung cancer",
+          "authors": "Weishi Cheng; Kai Kang; Ailin Zhao; Yijun Wu",
+          "year": "2024",
+          "journal": "Journal of Hematology & Oncology",
+          "doi": "10.1186/s13045-024-01581-2",
+          "pmid": "39068460",
+          "pmcid": "PMC11283714",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/39068460/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.833535,
+        "text_snippet": "org/ licen ses/ by/4. 0/. The Creative Commons Public Domain Dedication waiver (http:// creat iveco \nmmons. org/ publi cdoma in/ zero/1. 0/) applies to the data made available in this article, unless otherwise stated in a credit line to the data.\nJournal of\nHematology & Oncology\n†Weishi Cheng and Kai Kang have contributed equally to this work.\n*Correspondence:\nAilin Zhao\nzhaoailin@wchscu.cn\nYijun Wu\nwuyj01029@wchscu.cn\n1 Division of Thoracic Tumor Multimodality Treatment, Cancer Center, \nWest China Hospital, Sichuan University, Chengdu, Sichuan, China\n2 Peking Union Medical College, Chinese Academy of Medical Sciences, \nBeijing, China\n3 Laboratory of Clinical Cell Therapy, West China Hospital, Sichuan \nUniversity, Chengdu, Sichuan, China\n4 Department of Hematology, West China Hospital, Sichuan University, \nChengdu, Sichuan, China",
+        "text_length": 841,
+        "page": "1"
+      },
+      {
+        "source_file": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+        "metadata": {
+          "page_label": "24",
+          "file_name": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "source_file": "data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+          "file_type": "pdf",
+          "title": "Dual blockade immunotherapy targeting PD-1/PD-L1 and CTLA-4 in lung cancer",
+          "authors": "Weishi Cheng; Kai Kang; Ailin Zhao; Yijun Wu",
+          "year": "2024",
+          "journal": "Journal of Hematology & Oncology",
+          "doi": "10.1186/s13045-024-01581-2",
+          "pmid": "39068460",
+          "pmcid": "PMC11283714",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/39068460/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.833234,
+        "text_snippet": "Liu E, Marin D, Banerjee P , Macapinlac HA, Thompson P , Basar R, et al. \nUse of CAR-transduced natural killer cells in CD19-positive lymphoid \ntumors. N Engl J Med. 2020;382:545–53.\n 168. Harada K, Dong X, Estrella JS, Correa AM, Xu Y, Hofstetter WL, et al. \nTumor-associated macrophage infiltration is highly associated \nwith PD-L1 expression in gastric adenocarcinoma. Gastric Cancer. \n2018;21:31–40.\n 169. Tsukamoto M, Imai K, Ishimoto T, Komohara Y, Yamashita Y-I, Nakagawa \nS, et al. PD-L1 expression enhancement by infiltrating macrophagederived tumor necrosis factor-α leads to poor pancreatic cancer \nprognosis. Cancer Sci. 2019;110:310–20.\n 170. Hodi FS, O’Day SJ, McDermott DF, Weber RW, Sosman JA, Haanen JB, \net al. Improved survival with ipilimumab in patients with metastatic \nmelanoma. N Engl J Med. 2010;363:711–23.\n 171. Keir ME, Liang SC, Guleria I, Latchman YE, Qipo A, Albacker LA, et al. \nTissue expression of PD-L1 mediates peripheral T cell tolerance.",
+        "text_length": 975,
+        "page": "24"
+      }
+    ],
+    "runtime_seconds": 21.521,
+    "parameters": {
+      "similarity_top_k": 3,
+      "temperature": 0.1,
+      "max_new_tokens": 256,
+      "embedding_model": "BAAI/bge-small-en-v1.5",
+      "llm_model": "Qwen/Qwen2.5-0.5B-Instruct",
+      "chunk_size": 512,
+      "chunk_overlap": 50
+    },
+    "id": "comparison_dual_vs_single",
+    "type": "比较型"
+  },
+  {
+    "question": "根据这些文献，总结免疫检查点抑制剂治疗的主要优势、局限性以及常见免疫相关不良事件，并指出证据来源。",
+    "answer": "**主要优势：**\n1. **免疫检查物抑制剂（ICIs）** 是一种新型的抗肿瘤治疗方法，通过阻断特定的信号通路来抑制肿瘤生长和扩散。\n2\\. ICIs具有较低的副作用发生率，如感染、胃肠道反应等，且对某些患者来说是安全的。\n3\\. ICs可以显著改善患者的预后，尤其是对于那些有严重心血管疾病风险的患者。\n\n**局限性：**\n- **免疫系统抑制**：ICIs会降低患者的免疫功能，可能导致免疫力下降，增加感染的风险。\n- **耐药性**：部分患者可能会因为缺乏有效的治疗方案而发展为耐药状态。\n- 长期使用ICIs可能引起一些长期的副作用，包括骨髓抑制、肝肾功能损害等。\n\n**常见免疫相关的不良事件：**\n常见的免疫相关事件包括但不限于：\n- **感染**：包括肺炎、尿路感染、皮肤感染等。\n- 胃肠道反应：恶心、呕吐、腹泻等。\n  \n**证据来源：**\n以上文献均来自医学期刊，其中许多文章提供了详细的病例报告和临床试验数据，以支持其结论。例如，上述文献都引用了来自《柳叶刀》、",
+    "source_nodes_count": 3,
+    "source_nodes": [
+      {
+        "source_file": "Yin_2023_Immune_related_adverse_events.pdf",
+        "metadata": {
+          "page_label": "16",
+          "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+          "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+          "file_type": "pdf",
+          "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+          "authors": "Qinan Yin; Liuyun Wu; Lizhu Han; Xingyue Zheng; Rongsheng Tong; Lian Li; Lan Bai; Yuan Bian",
+          "year": "2023",
+          "journal": "Frontiers in Immunology",
+          "doi": "10.3389/fimmu.2023.1167975",
+          "pmid": "37304306",
+          "pmcid": "PMC10247998",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37304306/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.724459,
+        "text_snippet": "Smolen JS, Landewe R, Bergstra SA, Kerschbaumer A, Sepriano A, Aletaha D,\net al. EULAR recommendations for the management of rheumatoid arthritis with\nsynthetic and biological disease-modifying antirheumatic drugs: 2022 update.Ann\nRheum Dis(2023) 82:3– 18. doi:10.1136/ard-2022-223356\n139. Stone JH, Tuckwell K, Dimonaco S, Klearman M, Aringer M, Blockmans D,\net al. Trial of tocilizumab in giant-cell arteritis.N Engl J Med (2017) 377:317– 28.\ndoi: 10.1056/NEJMoa1613849\n140. Stroud CR, Hegde A, Cherry C, Naqash AR, Sharma N, Addepalli S, et al.\nTocilizumab for the management of immune mediated adverse events secondary to\nPD-1 blockade.J Oncol Pharm Pract(2019) 25:551– 7. doi:10.1177/1078155217745144\n141. Horisberger A, La Rosa S, Zurcher JP, Zimmermann S, Spertini F, Coukos G,\net al.",
+        "text_length": 791,
+        "page": "16"
+      },
+      {
+        "source_file": "Yin_2023_Immune_related_adverse_events.pdf",
+        "metadata": {
+          "page_label": "15",
+          "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+          "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+          "file_type": "pdf",
+          "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+          "authors": "Qinan Yin; Liuyun Wu; Lizhu Han; Xingyue Zheng; Rongsheng Tong; Lian Li; Lan Bai; Yuan Bian",
+          "year": "2023",
+          "journal": "Frontiers in Immunology",
+          "doi": "10.3389/fimmu.2023.1167975",
+          "pmid": "37304306",
+          "pmcid": "PMC10247998",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37304306/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.71943,
+        "text_snippet": "Cuzzubbo S, Javeri F, Tissier M, Roumi A, Barlog C, Doridam J, et al.\nNeurological adverse events associated with immune checkpoint inhibitors: review of\nthe literature.Eur J Cancer(2017) 73:1– 8. doi:10.1016/j.ejca.2016.12.001\n98. Marini A, Bernardini A, Gigli GL, Valente M, Muniz-Castrillo S, Honnorat J,\net al. Neurologic adverse events of immune checkpoint inhibitors: a systematic review.\nNeurology (2021) 96:754– 66. doi:10.1212/WNL.0000000000011795\n99. Varricchi G, Galdiero MR, Marone G, Criscuolo G, Triassi M, Bonaduce D, et al.\nCardiotoxicity of immune checkpoint inhibitors. ESMO Open (2017) 2:e247.\ndoi: 10.1136/esmoopen-2017-000247\n100. Cardinale D, Sandri MT, Colombo A, Colombo N, Boeri M, Lamantia G, et al.\nPrognostic value of troponin I in cardiac risk strati fication of cancer patients\nundergoing high-dose chemotherapy. Circulation (2004) 109:2749– 54. doi: 10.1161/\n01.CIR.0000130926.51766.CC\n101.",
+        "text_length": 921,
+        "page": "15"
+      },
+      {
+        "source_file": "Yin_2023_Immune_related_adverse_events.pdf",
+        "metadata": {
+          "page_label": "15",
+          "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+          "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+          "file_type": "pdf",
+          "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+          "authors": "Qinan Yin; Liuyun Wu; Lizhu Han; Xingyue Zheng; Rongsheng Tong; Lian Li; Lan Bai; Yuan Bian",
+          "year": "2023",
+          "journal": "Frontiers in Immunology",
+          "doi": "10.3389/fimmu.2023.1167975",
+          "pmid": "37304306",
+          "pmcid": "PMC10247998",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37304306/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.716356,
+        "text_snippet": "doi:10.1136/jitc-2021-002435\nYin et al. 10.3389/fimmu.2023.1167975\nFrontiers inImmunology frontiersin.org15",
+        "text_length": 107,
+        "page": "15"
+      }
+    ],
+    "runtime_seconds": 30.705,
+    "parameters": {
+      "similarity_top_k": 3,
+      "temperature": 0.1,
+      "max_new_tokens": 256,
+      "embedding_model": "BAAI/bge-small-en-v1.5",
+      "llm_model": "Qwen/Qwen2.5-0.5B-Instruct",
+      "chunk_size": 512,
+      "chunk_overlap": 50
+    },
+    "id": "summary_benefits_limits_irae",
+    "type": "总结型"
+  },
+  {
+    "question": "仅根据当前本地文献库，能否准确预测某一位具体患者接受纳武利尤单抗后的个人生存月数？请说明理由。",
+    "answer": "现有文献无此信息。",
+    "source_nodes_count": 3,
+    "source_nodes": [
+      {
+        "source_file": "Yin_2023_Immune_related_adverse_events.pdf",
+        "metadata": {
+          "page_label": "15",
+          "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+          "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+          "file_type": "pdf",
+          "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+          "authors": "Qinan Yin; Liuyun Wu; Lizhu Han; Xingyue Zheng; Rongsheng Tong; Lian Li; Lan Bai; Yuan Bian",
+          "year": "2023",
+          "journal": "Frontiers in Immunology",
+          "doi": "10.3389/fimmu.2023.1167975",
+          "pmid": "37304306",
+          "pmcid": "PMC10247998",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37304306/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.662834,
+        "text_snippet": "doi:10.1136/jitc-2021-002435\nYin et al. 10.3389/fimmu.2023.1167975\nFrontiers inImmunology frontiersin.org15",
+        "text_length": 107,
+        "page": "15"
+      },
+      {
+        "source_file": "Yin_2023_Immune_related_adverse_events.pdf",
+        "metadata": {
+          "page_label": "11",
+          "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+          "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+          "file_type": "pdf",
+          "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+          "authors": "Qinan Yin; Liuyun Wu; Lizhu Han; Xingyue Zheng; Rongsheng Tong; Lian Li; Lan Bai; Yuan Bian",
+          "year": "2023",
+          "journal": "Frontiers in Immunology",
+          "doi": "10.3389/fimmu.2023.1167975",
+          "pmid": "37304306",
+          "pmcid": "PMC10247998",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37304306/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.659332,
+        "text_snippet": "Yin et al. 10.3389/fimmu.2023.1167975\nFrontiers inImmunology frontiersin.org11",
+        "text_length": 78,
+        "page": "11"
+      },
+      {
+        "source_file": "Yin_2023_Immune_related_adverse_events.pdf",
+        "metadata": {
+          "page_label": "17",
+          "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+          "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+          "file_type": "pdf",
+          "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+          "authors": "Qinan Yin; Liuyun Wu; Lizhu Han; Xingyue Zheng; Rongsheng Tong; Lian Li; Lan Bai; Yuan Bian",
+          "year": "2023",
+          "journal": "Frontiers in Immunology",
+          "doi": "10.3389/fimmu.2023.1167975",
+          "pmid": "37304306",
+          "pmcid": "PMC10247998",
+          "source_url": "https://pubmed.ncbi.nlm.nih.gov/37304306/",
+          "chunk_size": "512",
+          "chunk_overlap": "50"
+        },
+        "score": 0.658185,
+        "text_snippet": "Glossary\nACTH adrenocorticotropic hormone\nAKI acute kidney injury\nALT alanine aminotransferase\nAPCs antigen presenting cells\nAST aspartate aminotransferase\nBCC basal cell carcinoma\nBD Bullous dermatitis\nBRCA bladder urothelial carcinoma\nCC cervical cancer\ncHL classical Hodgkin ’s lymphoma\nCRC colorectal cancer\nCSCC cutaneous squamous cell carcinoma\nCTCAE the Common Terminology Criteria for Adverse Events\nCTLA-4 cytotoxic T lymphocyte-associated antigen 4\nDKA diabetic ketoacidosis\ndMMR mismatch repair de ficiency\nEC endometrial carcinoma\nECG electrocardiograph\nEMA European Medicines Agency\nESCC esophageal squamous cell carcinoma\nFDA the United States Food and Drug Administration\nFBG fasting blood-glucose\nGC gastric cancer\nGEP gene expression profile\nHC Health Canada\nHCC hepatocellular carcinoma\nHL Hodgkin’s lymphoma\nHLH Hemophagocytic lymphohistiocytosis\nHNSCC head and neck squamous cell carcinoma\nICIs immune checkpoint inhibitors\nIMH immune-mediated hepatotoxicity\nirCAEs cutaneous immune-related adverse events\nirAEs immune-related adverse events\nIO immune-oncologic\nIV intravenous\nLAG-3 lymphocyte-activation gene 3\nLFTs liver function-test\nMCC Merkel cell carcinoma\n(Continued)\nContinued\nMHLW Ministry of Health,",
+        "text_length": 1229,
+        "page": "17"
+      }
+    ],
+    "runtime_seconds": 4.243,
+    "parameters": {
+      "similarity_top_k": 3,
+      "temperature": 0.1,
+      "max_new_tokens": 256,
+      "embedding_model": "BAAI/bge-small-en-v1.5",
+      "llm_model": "Qwen/Qwen2.5-0.5B-Instruct",
+      "chunk_size": 512,
+      "chunk_overlap": 50
+    },
+    "id": "evidence_insufficient",
+    "type": "证据不足测试"
+  }
+]

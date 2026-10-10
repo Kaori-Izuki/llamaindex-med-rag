@@ -1,0 +1,76 @@
+D:\Download\532490282\WPS����\Sun Yat_sen University\Learning\��һ��\ҽѧ�˹�����\homework6\.venv\Lib\site-packages\pydantic\_internal\_generate_schema.py:2309: UnsupportedFieldAttributeWarning: The 'validate_default' attribute with value True was provided to the `Field()` function, which has no effect in the context it was used. 'validate_default' is field-specific metadata, and can only be attached to a model field using `Annotated` metadata or by assignment. This may have happened because an `Annotated` type alias using the `type` statement was used, or if the `Field()` function was attached to a single member of a union type.
+  warnings.warn(
+
+Parsing nodes:   0%|          | 0/61 [00:00<?, ?it/s]
+Parsing nodes:   2%|��         | 1/61 [00:00<00:43,  1.38it/s]
+Parsing nodes:  80%|����������������  | 49/61 [00:00<00:00, 80.11it/s]
+Parsing nodes: 100%|��������������������| 61/61 [00:00<00:00, 71.35it/s]
+
+Generating embeddings:   0%|          | 0/311 [00:00<?, ?it/s]
+Generating embeddings:   3%|��         | 10/311 [00:01<00:33,  8.97it/s]
+Generating embeddings:   6%|��         | 20/311 [00:02<00:33,  8.56it/s]
+Generating embeddings:  10%|��         | 30/311 [00:03<00:32,  8.71it/s]
+Generating embeddings:  13%|����        | 40/311 [00:04<00:32,  8.43it/s]
+Generating embeddings:  16%|����        | 50/311 [00:05<00:30,  8.62it/s]
+Generating embeddings:  19%|����        | 60/311 [00:06<00:28,  8.75it/s]
+Generating embeddings:  23%|������       | 70/311 [00:08<00:27,  8.85it/s]
+Generating embeddings:  26%|������       | 80/311 [00:09<00:26,  8.73it/s]
+Generating embeddings:  29%|������       | 90/311 [00:10<00:25,  8.56it/s]
+Generating embeddings:  32%|��������      | 100/311 [00:11<00:24,  8.44it/s]
+Generating embeddings:  35%|��������      | 110/311 [00:12<00:23,  8.43it/s]
+Generating embeddings:  39%|��������      | 120/311 [00:14<00:23,  8.15it/s]
+Generating embeddings:  42%|����������     | 130/311 [00:15<00:22,  8.02it/s]
+Generating embeddings:  45%|����������     | 140/311 [00:16<00:21,  7.93it/s]
+Generating embeddings:  48%|����������     | 150/311 [00:18<00:20,  7.83it/s]
+Generating embeddings:  51%|������������    | 160/311 [00:19<00:19,  7.83it/s]
+Generating embeddings:  55%|������������    | 170/311 [00:20<00:17,  7.97it/s]
+Generating embeddings:  58%|������������    | 180/311 [00:21<00:16,  7.99it/s]
+Generating embeddings:  61%|������������    | 190/311 [00:22<00:14,  8.19it/s]
+Generating embeddings:  64%|��������������   | 200/311 [00:24<00:13,  8.27it/s]
+Generating embeddings:  68%|��������������   | 210/311 [00:25<00:12,  8.30it/s]
+Generating embeddings:  71%|��������������   | 220/311 [00:26<00:10,  8.54it/s]
+Generating embeddings:  74%|����������������  | 230/311 [00:27<00:09,  8.52it/s]
+Generating embeddings:  77%|����������������  | 240/311 [00:28<00:08,  8.73it/s]
+Generating embeddings:  80%|����������������  | 250/311 [00:29<00:07,  8.29it/s]
+Generating embeddings:  84%|������������������ | 260/311 [00:31<00:06,  7.75it/s]
+Generating embeddings:  87%|������������������ | 270/311 [00:32<00:05,  7.95it/s]
+Generating embeddings:  90%|������������������ | 280/311 [00:33<00:03,  7.82it/s]
+Generating embeddings:  93%|��������������������| 290/311 [00:35<00:02,  7.94it/s]
+Generating embeddings:  96%|��������������������| 300/311 [00:36<00:01,  7.85it/s]
+Generating embeddings: 100%|��������������������| 310/311 [00:37<00:00,  8.04it/s]
+Generating embeddings: 100%|��������������������| 311/311 [00:37<00:00,  7.89it/s]
+Generating embeddings: 100%|��������������������| 311/311 [00:37<00:00,  8.21it/s]
+[��ʵ��] ������Щ���ף�PD-1/PD-L1 �� CTLA-4 �ֱ��� T ϸ��������ĸ��׶η����������ã����ǽ�����ƺ���Ҫ������Щ����ѧ�仯��
+������Щ���£�PD-L1 �� T ��֯ϸ�����T-cell activation�������ڽ׶������������ã��� CTLA -4 ���� T �ܰ�ϸ��������ڽ׶������ã���ͨ���为��������������������ơ�
+source_nodes=3 runtime=11.308s files=['Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf', 'Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf']
+[�Ƚ���] �뵥ҩ PD-1/PD-L1 ������ȣ�PD-1/PD-L1 ���� CTLA-4 ��������û��ơ�Ǳ����Ч��������ز����¼���������Щ���죿
+���û��ƣ�˫������������PD-PTCL1/PDL1���໥���ã������������PD-CTK4/CTLA4��
+
+Ǳ����Ч��˫�������������������������ϸ����ɱ��������ͬʱ�����˶�������֯�����ˣ�������������ظ����õķ����ʡ�
+
+��������к��¼���˫��������������巴Ӧ�ʣ�ORR��Ϊ42%�������������Ϊ22%��Ȼ����˫�б������鷢�����ص�������ض����¼��ı����ϵͣ��緢�ȡ�ƣ�ͺ�ѪС����ٵȣ������˫�б����Ͽ��ܾ��и��õİ�ȫ�Ժ������ԡ�
+source_nodes=3 runtime=19.794s files=['Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf']
+[�ܽ���] ������Щ���ף��ܽ����߼������Ƽ����Ƶ���Ҫ���ơ��������Լ�����������ز����¼�����ָ��֤����Դ��
+**��Ҫ���ƣ�**
+1. **���߼�������Ƽ���ICIs��** ��һ�����͵Ŀ��������Ʒ�����ͨ������ض����ź�ͨ·������������������ɢ��
+2\. ICIs���нϵ͵ĸ����÷����ʣ����Ⱦ��θ������Ӧ�ȣ��Ҷ�ĳЩ������˵�ǰ�ȫ�ġ�
+3\. ICs�����������ƻ��ߵ�Ԥ�������Ƕ�����Щ��������Ѫ�ܼ������յĻ��ߡ�
+
+**�����ԣ�**
+- **����ϵͳ����**��ICIs�ή�ͻ��ߵ����߹��ܣ����ܵ����������½������Ӹ�Ⱦ�ķ��ա�
+- **��ҩ��**�����ֻ��߿��ܻ���Ϊȱ����Ч�����Ʒ�������չΪ��ҩ״̬��
+- ����ʹ��ICIs��������һЩ���ڵĸ����ã������������ơ����������𺦵ȡ�
+
+**����������صĲ����¼���**
+��������������¼������������ڣ�
+- **��Ⱦ**���������ס���·��Ⱦ��Ƥ����Ⱦ�ȡ�
+- θ������Ӧ�����ġ�Ż�¡���к�ȡ�
+  
+**֤����Դ��**
+�������׾�����ҽѧ�ڿ����������������ṩ����ϸ�Ĳ���������ٴ��������ݣ���֧������ۡ����磬�������׶����������ԡ���Ҷ������
+source_nodes=3 runtime=30.358s files=['Yin_2023_Immune_related_adverse_events.pdf']
+[֤�ݲ������] �����ݵ�ǰ�������׿⣬�ܷ�׼ȷԤ��ĳһλ���廼�߽����������ȵ�����ĸ���������������˵�����ɡ�
+���������޴���Ϣ��
+source_nodes=3 runtime=4.344s files=['Yin_2023_Immune_related_adverse_events.pdf']
+
+��ɣ����ס��������ʴ�source_nodes������ʵ��ͱ�����ѱ��档

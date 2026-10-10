@@ -1,0 +1,48 @@
+{
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedding_model_path": "D:\\Download\\532490282\\WPS云盘\\Sun Yat_sen University\\Learning\\研一上\\医学人工智能\\homework6\\models\\embedding\\bge-small-en-v1.5",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "document_count": 3,
+  "documents": [
+    {
+      "source_file": "data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+      "file_name": "Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf",
+      "file_type": "pdf",
+      "title": "Dual blockade immunotherapy targeting PD-1/PD-L1 and CTLA-4 in lung cancer",
+      "characters": 127271,
+      "words_approx": 18688,
+      "pmid": "39068460",
+      "pmcid": "PMC11283714"
+    },
+    {
+      "source_file": "data/raw/Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf",
+      "file_name": "Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf",
+      "file_type": "pdf",
+      "title": "Distinct Cellular Mechanisms Underlie Anti-CTLA-4 and Anti-PD-1 Checkpoint Blockade",
+      "characters": 59283,
+      "words_approx": 8703,
+      "pmid": "28803728",
+      "pmcid": "PMC5591072"
+    },
+    {
+      "source_file": "data/raw/Yin_2023_Immune_related_adverse_events.pdf",
+      "file_name": "Yin_2023_Immune_related_adverse_events.pdf",
+      "file_type": "pdf",
+      "title": "Immune-related adverse events of immune checkpoint inhibitors: a review",
+      "characters": 101306,
+      "words_approx": 14289,
+      "pmid": "37304306",
+      "pmcid": "PMC10247998"
+    }
+  ],
+  "source_signature": "[{\"sha256\":\"250c6e87e190da6ac82d98cb2de3db24bad0aa1d160594890913ff198628cf92\",\"size_bytes\":1378974,\"source_file\":\"data/raw/Cheng_2024_Dual_blockade_PD1_PDL1_CTLA4_lung_cancer.pdf\"},{\"sha256\":\"3b4fedd1ac3af7e0f5ca40012fef7e68aa40fd91d0339d0caae8403d361ac455\",\"size_bytes\":948229,\"source_file\":\"data/raw/Wei_2017_Distinct_cellular_mechanisms_CTLA4_PD1.pdf.pdf\"},{\"sha256\":\"d15bf4c5d0eef10f177c30d328cab7e27a024971a0fe4b411e5af920f0444b42\",\"size_bytes\":1415354,\"source_file\":\"data/raw/Yin_2023_Immune_related_adverse_events.pdf\"}]",
+  "node_stats": {
+    "node_count": 311,
+    "min_chars": 25,
+    "max_chars": 1660,
+    "mean_chars": 1002.09,
+    "median_chars": 984
+  },
+  "loaded_from_cache": true
+}

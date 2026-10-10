@@ -1,0 +1,12 @@
+[
+  {
+    "model_id": "BAAI/bge-small-en-v1.5",
+    "local_dir": "D:\\Download\\532490282\\WPS云盘\\Sun Yat_sen University\\Learning\\研一上\\医学人工智能\\homework6\\models\\embedding\\bge-small-en-v1.5",
+    "cached": true
+  },
+  {
+    "model_id": "Qwen/Qwen2.5-0.5B-Instruct",
+    "local_dir": "D:\\Download\\532490282\\WPS云盘\\Sun Yat_sen University\\Learning\\研一上\\医学人工智能\\homework6\\models\\llm\\Qwen2.5-0.5B-Instruct",
+    "cached": true
+  }
+]
